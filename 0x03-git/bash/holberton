@@ -1,2 +1,7 @@
 #!/bin/bash
-echo "holberton school is so cool!"
+<<<<<<< HEAD
+echo "Holberton School is so cool!"
+=======
+echo "Holberton School"
+>>>>>>> origin/update_script
+© 2021 GitHub, Inc.
